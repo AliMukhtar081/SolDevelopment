@@ -26,5 +26,7 @@ const signature = await sendAndConfirmTransaction(
     [owenerKeypair]
 )
 console.log("signature:",signature)
+console.log("signature:",signature)
+
 }
 solTransaction()
